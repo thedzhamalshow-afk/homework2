@@ -48,10 +48,10 @@ html, body {
 
 .button__empty {
     background-image: none;
-    border-left: 2px solid #ffffff;
-    border-right: 2px solid #ffffff;
-    background-image: -webkit-linear-gradient(left, #ffffff, #ffffff), -webkit-linear-gradient(left, #ffffff, #ffffff);
-    background-image: linear-gradient(left, #ffffff, #ffffff), linear-gradient(left, #ffffff, #ffffff);
+    border-left: 2px solid #FA8072;
+    border-right: 2px solid #FA8072;
+    background-image: -webkit-linear-gradient(left, #FA8072, #FA8072), -webkit-linear-gradient(left, #FA8072, #FA8072);
+    background-image: linear-gradient(left, #FA8072, #FA8072), linear-gradient(left, #FA8072, #FA8072);
     background-size: 100% 2px;
     background-position: 0 100%, 0 0;
     background-repeat: no-repeat;
@@ -1675,4 +1675,5 @@ html, body {
 
 .footer__go-top:hover {
     opacity: 1;
+
 }
